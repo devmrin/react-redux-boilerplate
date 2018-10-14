@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
-import './styles/reset.scss';
+import './styles/sanitize.scss';
 import { BrowserRouter } from 'react-router-dom';
 
 ReactDOM.render(
